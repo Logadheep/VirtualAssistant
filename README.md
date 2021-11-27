@@ -1,7 +1,7 @@
-##**VirtualAssistant**##
+## **VirtualAssistant** 
 Simple virtual assistant using pyttsx3 and speech recognition optionally with pywhatkit and pther libraries.
 
-##**Third Party Libraries used and steps to install:**##
+## **Third Party Libraries used and steps to install:** 
 **Pyttsx3**
 For Text-to-Speech Software
 `pip install pyttsx3`
@@ -17,7 +17,7 @@ For Other purposes
 **PyAudio**
 For accessing Microphone of Laptops
 `pip install pyaudio`
-__if the above command results in some errors use the below commands__
+_if the above command results in some errors use the below commands_
 `pip install pipwin`
 `pipwin install pyaudio`
 
